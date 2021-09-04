@@ -1,6 +1,9 @@
 pip>=9
 setuptools>=26
 wheel>=0.29
+folium==0.2.1
+imgaug==0.2.7
+requests==2.23.0
 pandas
 pytest
 coverage
@@ -15,6 +18,3 @@ s3fs
 pygeohash
 tensorflow
 matplotlib
-requests==2.23.0
-folium==0.2.1
-imgaug==0.2.7
