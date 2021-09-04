@@ -8,7 +8,7 @@ import pandas as pd
 
 # Import from taxifare_deep
 import taxifare_deep
-from taxifare_deep.lib import clean_data
+from taxifare_deep.data import clean_data
 
 if __name__ == '__main__':
     usage = '%(prog)s'
